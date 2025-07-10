@@ -1,3 +1,4 @@
 [submodule "clubion_backend"]
 	path = clubion_backend
-	url = https://github.com/Zarritas/clubion_backend
+	url = https://github.com/Zarritas/clubion_backend.git
+	branch = main
