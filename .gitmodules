@@ -1,0 +1,3 @@
+[submodule "clubion_backend"]
+	path = clubion_backend
+	url = ./clubion_backend
